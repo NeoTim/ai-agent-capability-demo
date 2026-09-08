@@ -1,0 +1,1 @@
+Pair extraordinaire test via standard git cli
